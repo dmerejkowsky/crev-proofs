@@ -1,0 +1,22 @@
+-----BEGIN CREV PACKAGE REVIEW-----
+version: -1
+date: "2019-01-11T20:09:59.141883636+01:00"
+from:
+  id-type: crev
+  id: K01rxUTOhcIvnW9fe5mdRngtyuIDZZYedCg-5JANEpo
+  url: "https://github.com/dmerejkowsky/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: structopt
+  version: 0.2.11
+  revision: 720cf4ee199b7f5fa9dd0b97ba75bc1b9ea63269
+  digest: RYT6SZx6M11OGjhvKp4oKR7MQ021yyQnZGksrMztN_M
+review:
+  thoroughness: low
+  understanding: medium
+  rating: neutral
+comment: Just trying out cargo-crev
+-----BEGIN CREV PACKAGE REVIEW SIGNATURE-----
+jexoKIhRzwEw-B21Pha_5lR70y37JWpkQWnAIBYyThDYWnNRf80CdxMwUA0-9QB4XgFQhzgiDAwbT7NG3eVaCA
+-----END CREV PACKAGE REVIEW-----
+
